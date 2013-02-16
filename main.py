@@ -2,6 +2,8 @@ from random import randint
 
 f = open('ttt.dat')
 
+def test():
+    pass
 
 def main():
     i = 5
